@@ -1,5 +1,5 @@
 ACTIVIDAD 1: NÚMEROS DEL 1 AL 10
-Cada participante, por turnos, tira el dado y observa el resultado (el número que "apoya" sobre la superficie). Debe programar al escornabot para llegar a la casilla que tiene esa cantidad representada.
+Cada participante, por turnos, tira el dado y observa el resultado. Debe programar al escornabot para llegar a la casilla que tiene esa cantidad representada.
 
 Materiales:
 Alfombrilla Números del 1 al 10.
