@@ -29,7 +29,7 @@ scale([scale2, scale2, scale2]){
                 rotate([45, 0, 0]){
                   // size is multiplied by 0.75 because openScad font sizes are in points, not pixels
                   linear_extrude( height=2, twist=0, center=false){
-                    text(str((11 + i / 72)), font = "Roboto", size = 11.5*0.75, halign="center", valign="center");
+                    text(str((6 + i / 72)), font = "Roboto", size = 11.5*0.75, halign="center", valign="center");
                   }
 
                 }
@@ -46,7 +46,7 @@ scale([scale2, scale2, scale2]){
                   rotate([45, 180, 0]){
                     // size is multiplied by 0.75 because openScad font sizes are in points, not pixels
                     linear_extrude( height=2, twist=0, center=false){
-                      text(str((16 + i / 72)), font = "Roboto", size = 11.5*0.75, halign="center", valign="center");
+                      text(str((6 + i / 72)), font = "Roboto", size = 11.5*0.75, halign="center", valign="center");
                     }
 
                   }
