@@ -1,4 +1,4 @@
-<b> <big><big> Colección de alfombrillas para escornabot.</b> </big></big>
+<b> Colección de alfombrillas para escornabot.</b> 
 <br/>--en proceso--
 <table> 
    <tr>
