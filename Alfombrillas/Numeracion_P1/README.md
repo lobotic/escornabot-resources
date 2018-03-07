@@ -1,4 +1,4 @@
-<b>ACTIVIDAD 1: NÚMEROS DEL 1 AL 10</b><br\>
+<b>ACTIVIDAD 1: NÚMEROS DEL 1 AL 10</b><br/>
 Cada participante, por turnos, tira el dado y observa el resultado. Debe programar al escornabot para llegar a la casilla que tiene esa cantidad representada.
 
 <b>Materiales:</b>
