@@ -15,4 +15,5 @@ Colección de alfombrillas para escornabot.
     <td>MATEMÁTICAS <br \>NUMERACIÓN</td>
     <td>1º PRIMARIA</td>
   </tr>
+  </tbody>
 </table>
