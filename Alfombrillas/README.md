@@ -1,8 +1,7 @@
 Colección de alfombrillas para escornabot.
 --en proceso--
 <table> 
-  </tbody>
-    </tbody>
+      </tbody>
   <tbody style="background: rgba(255, 128, 0, 0.3); border: 1px solid rgba(200, 100, 0, 0.3);">
   <tr>
     <th>IMAGEN</th>
