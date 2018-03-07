@@ -15,6 +15,6 @@ Colección de alfombrillas para escornabot.
     <td>Matemáticas <br \>Numeración</td>
     <td>1º Primaria</td>
     <td>Castellano</td>
-    <td><a href="phttps://github.com/lobotic/escornabot-resources/tree/master/Alfombrillas/Numeracion_P1">Enlace</a></td>
+    <td><a href="https://github.com/lobotic/escornabot-resources/tree/master/Alfombrillas/Numeracion_P1">Enlace</a></td>
   </tr>
   </table>
