@@ -8,6 +8,8 @@
     <th>TEMA</th>
     <th>EDAD</th>
     <th>LENGUA</th>
+    <th>AUTOR/A</th>
+    <th>LICENCIA</th>
     <th>ENLACE</th>
   </tr>
    
@@ -17,6 +19,8 @@
     <td>Matemáticas <br \> Numeración</td>
     <td>1º Primaria</td>
     <td>Castellano</td>
+    <td>@lobo_tic</td>
+    <td>CC BY-SA</td>
     <td><a href="https://github.com/lobotic/escornabot-resources/tree/master/Alfombrillas/Numeracion_P1">Enlace</a></td>
   </tr>
   
