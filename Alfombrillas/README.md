@@ -1,6 +1,6 @@
 Colección de alfombrillas para escornabot.
 --en proceso--
-<table>
+<table> border: 1px align="center"
   <tr>
     <th>IMAGEN</th>
     <th>NOMBRE</th>
