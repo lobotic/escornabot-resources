@@ -1,4 +1,4 @@
 # Escornabot
 Resources to use educational robot Escornabot
-<b\>
+<br />
 Project web: www.escornabot.es
