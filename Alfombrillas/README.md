@@ -1,5 +1,5 @@
-<b> <big> Colección de alfombrillas para escornabot.</b> </big>
-<br \>--en proceso--
+<b> <big><big> Colección de alfombrillas para escornabot.</b> </big></big>
+<br/>--en proceso--
 <table> 
    <tr>
     <th>IMAGEN</th>
