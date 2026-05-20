@@ -12,7 +12,16 @@
     <th>LICENCIA</th>
     <th>ENLACE</th>
   </tr>
-   
+  <tr>
+    <td><img align="center" width="125" height="90" src="https://github.com/lobotic/escornabot-resources/blob/master/Alfombrillas/SistemaSolar/sistemasolar.png" </td>
+    <td>Sistema Solar</td>
+    <td>CC.NN <br \> Numeración</td>
+    <td>Infantil - 1er Ciclo</td>
+    <td>Castellano</td>
+    <td>@lobo_tic</td>
+    <td>CC BY-SA</td>
+    <td><a href="https://github.com/lobotic/escornabot-resources/tree/master/Alfombrillas/SistemaSolar">Enlace</a></td>
+  </tr> 
   <tr>
     <td><img align="center" width="125" height="90" src="https://github.com/lobotic/escornabot-resources/blob/master/Alfombrillas/Numeracion_P1/mates1%C2%BA.jpg" </td>
     <td>Numeración 1-20</td>
