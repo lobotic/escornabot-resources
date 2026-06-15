@@ -24,12 +24,12 @@ difference() {
   cube([5.1, 5.1, 30], center=true);
 }
 hull(){
-  translate([-15, -35, 5]){
+  translate([-15, -35, 4]){
     rotate([0, 90, 0]){
       cube([5, 5, 30], center=false);
     }
   }
-  translate([-17, -32.5, 2.5]){
+  translate([-17, -32.5, 1.5]){
     sphere(r=0.5);
   }
 }
